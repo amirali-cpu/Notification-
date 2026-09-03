@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(php artisan *)",
-      "Bash(php -l app/Jobs/SendNotificationJob.php)"
-    ]
-  }
-}
